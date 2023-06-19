@@ -4,3 +4,14 @@
 
 
 [![My Skills](https://skillicons.dev/icons?i=linux,bash,c,cpp,docker,git,js,github,nestjs,postgres,py,django,wordpress,vscode,vim,ts,vue,ps,ai,css,arduino)](https://skillicons.dev)
+
+<table>
+    <tr>
+        <a href="https://github.com/mik989">
+            <img src="https://awesome-github-stats.azurewebsites.net/user-stats/mik989?cardType=level&theme=tokyonight" width="397" height="200">
+        </a> 
+        <a href="https://github.com/mik989?tab=repositories">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mik989&hide=swift,roff,perl&layout=compact&theme=tokyonight" width="380" height="200">
+        </a>
+    </tr>
+</table>
